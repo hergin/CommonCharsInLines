@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonCharsInLines", "CommonCharsInLines\CommonCharsInLines.csproj", "{B466D25F-774C-4580-853C-D68376B05951}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommonCharsInLinesTests", "CommonCharsInLinesTests\CommonCharsInLinesTests.csproj", "{BA36A777-76BF-4977-9D69-15CBFE47299B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B466D25F-774C-4580-853C-D68376B05951}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B466D25F-774C-4580-853C-D68376B05951}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B466D25F-774C-4580-853C-D68376B05951}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B466D25F-774C-4580-853C-D68376B05951}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA36A777-76BF-4977-9D69-15CBFE47299B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA36A777-76BF-4977-9D69-15CBFE47299B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA36A777-76BF-4977-9D69-15CBFE47299B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA36A777-76BF-4977-9D69-15CBFE47299B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
